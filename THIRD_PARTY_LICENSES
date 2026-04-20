@@ -1,2 +1,6 @@
-This project uses third-party libraries licensed under the MIT License:
-Bootstrap  https://github.com/twbs/bootstrap/blob/main/LICENSE
+This project uses third-party libraries, images, and other content:
+
+Bootstrap     https://github.com/twbs/bootstrap/blob/main/LICENSE
+jQuery        https://jquery.com/license/
+Font Awesome  https://fontawesome.com/license/free
+Freepik       https://www.freepik.com/legal/terms-of-use
